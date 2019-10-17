@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\bin\Debug\CGProject.exe.config
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\bin\Debug\CGProject.exe
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\bin\Debug\CGProject.pdb
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.Form1.resources
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.Properties.Resources.resources
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.exe
+C:\Users\Acer\Desktop\gpi\trunk\CGProject\CGProject\obj\Debug\CGProject.pdb
